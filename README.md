@@ -1,5 +1,3 @@
-# vuln-analysis-agent
-一个调用 AI 自动分析 Nmap 扫描结果并生成安全报告的 Python Agent
 # Vuln Analysis Agent
 
 一个运行在 Kali 上的 AI 安全分析代理，自动读取 Nmap 扫描结果，调用大语言模型生成漏洞风险报告，并输出修复建议。
